@@ -54,7 +54,7 @@ RushHourTaxi/
  **Prerequisites**
 * Visual Studio 2019/2022 (with C++ workload).
 * MASM (Microsoft Macro Assembler).
-* Irvine32 Library: Download Official Guide (https://asmirvine.com/gettingStartedVS2019/index.htm)
+* **Irvine32 Library:** Download Official Guide (https://asmirvine.com/gettingStartedVS2019/index.htm)
 
 ## Author
 

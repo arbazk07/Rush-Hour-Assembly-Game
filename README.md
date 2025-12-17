@@ -26,7 +26,7 @@ The `PlayGame` procedure acts as the main kernel, cycling through Input -> Logic
 * **3 Game Modes:**
     * **Career:** Reach 500 points to win.
     * **Time Attack:** Race against a 60-second hardware timer.
-    * **Endless:** Infinite survival gameplay.
+    * **Endless:** An infinite survival gameplay.
 * **Dynamic Traffic:** NPC cars spawn and move logically across the grid. They detect board boundaries and reverse direction autonomously.
 * **Collision System:** Real-time checking of Player Index vs. Obstacle Index.
     * `Red Taxi`: High durability, slower speed.
@@ -54,7 +54,7 @@ RushHourTaxi/
  **Prerequisites**
 * Visual Studio 2019/2022 (with C++ workload).
 * MASM (Microsoft Macro Assembler).
-* **Irvine32 Library:** Download Official Guide (https://asmirvine.com/gettingStartedVS2019/index.htm)
+* **Irvine32 Library:** Download from the Official Guide (https://asmirvine.com/gettingStartedVS2019/index.htm)
 
 ## Author
 

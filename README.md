@@ -1,6 +1,6 @@
 # 🚖 Rush Hour Taxi (x86 Assembly)
 
-> A high-performance console arcade game built entirely in **x86 Assembly Language** (MASM), featuring dynamic traffic AI, collision physics, and binary serialization.
+> A high-performance console arcade game built entirely in **x86 Assembly Language** (MASM), featuring dynamic traffic, collision physics, and binary serialization.
 
 ## 🚀 Project Overview
 This project demonstrates the power of low-level systems programming by implementing a real-time traffic simulation without the overhead of modern game engines. The game logic manages memory directly using register-based offsets (`ESI`/`EDI`) to simulate a 2D grid within a 1D linear array.
